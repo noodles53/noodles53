@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noodles53
+- 👀 I’m interested in staring new projects and developing in programming 
+- 🌱 I’m currently learning python and open to learn more 
+- 💞️ I’m looking to collaborate on buisness that can emprove my skills 
